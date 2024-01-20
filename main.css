@@ -1622,3 +1622,7 @@ element.style {
     max-width: 100%!important;
 }
 }
+
+.border_box{
+	border:1px solid black;
+}
